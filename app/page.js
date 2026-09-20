@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="page">
       <div className="header">
-        <a href="#home" className="brand">Aditya</a>
+        <a href="#home" className="brand">Aditya Munday</a>
         <div className="menu">
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
@@ -12,7 +12,7 @@ export default function Home() {
       </div>
 
       <div id="home" className="hero">
-        <h1>Hi I Am Aditya</h1>
+        <h1>Hi I Am Aditya Munday</h1>
         <p>Am a C/C++ Developer</p>
         <a href="#contact" className="button">Get in touch</a>
       </div>
